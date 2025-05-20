@@ -4,7 +4,7 @@
 
 > 📌 Designed for creators, brand strategists, and YouTube growth hackers.
 
-![CommentSense Dashboard](screenshots/comment_dashboard.png)
+![CommentSense Dashboard](screenshots/Dashboard.png)
 
 ---
 
@@ -50,6 +50,10 @@ Comments: {comments_list}
 ```
 5. Returns a structured analysis for the creator to act on.
 
+![CommentSense Dashboard](screenshots/Analysis.png)
+
+---
+
 ## 🛠️ Installation
 
 ```bash
@@ -61,12 +65,18 @@ python app.py
 ```
 💡 You’ll need a YouTube Data API key and an OpenAI API key set up in your environment or a config file.
 
+---
+
 🧑‍💻 Contributing
 Contributions are welcome! Please open issues or pull requests to improve functionality, UI, or model prompts.
+
+---
 
 📜 License
 MIT License
 
+---
+
 📫 Contact
-Built with 💡 by johnIT56
+Built with 💡 by johnIT56 \
 📧 Email: johnsonmoshy6@gmail.com
