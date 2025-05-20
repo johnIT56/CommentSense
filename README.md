@@ -49,3 +49,12 @@ user_prompt = f"""Analyse the following comments and tell the channel owner:
 Comments: {comments_list}
 ```
 5. Returns a structured analysis for the creator to act on.
+
+## 🛠️ Installation
+
+```bash
+git clone https://github.com/yourusername/CommentSense.git
+cd CommentSense
+pip install -r requirements.txt
+python app.py
+💡 You’ll need a YouTube Data API key and an OpenAI API key set up in your environment or a config file.
