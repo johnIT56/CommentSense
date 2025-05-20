@@ -53,7 +53,7 @@ Comments: {comments_list}
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/yourusername/CommentSense.git
+git clone https://github.com/johnIT56/CommentSense.git
 cd CommentSense
 pip install -r requirements.txt
 python app.py
