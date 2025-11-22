@@ -79,4 +79,3 @@ MIT License
 
 📫 Contact
 Built with 💡 by johnIT56 \
-📧 Email: johnsonmoshy6@gmail.com
