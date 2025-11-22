@@ -1,28 +1,28 @@
-# 🧠 CommentSense: AI-Powered YouTube Comment Analyzer for Creators 🎥
+#  CommentSense: AI-Powered YouTube Comment Analyzer for Creators 🎥
 
 **CommentSense** is an intelligent tool that leverages OpenAI’s Large Language Models (LLMs) to **analyze YouTube comments** and generate high-level feedback for content creators. Just paste a YouTube link, and CommentSense will summarize what your audience thinks — the good, the bad, and what they want next.
 
-> 📌 Designed for creators, brand strategists, and YouTube growth hackers.
+>  Designed for creators, brand strategists, and YouTube growth hackers.
 
 ![CommentSense Dashboard](screenshots/Dashboard.png)
 
 ---
 
-## 🚀 Features
+##  Features
 
-- 🔗 Input any **YouTube video link**
-- 🤖 Automatically fetches **comments** using the **YouTube Data API**
-- 🧠 Uses **OpenAI GPT** to analyze:
+- Input any **YouTube video link**
+- Automatically fetches **comments** using the **YouTube Data API**
+- Uses **OpenAI GPT** to analyze:
   - ✅ Overall audience sentiment
   - ✅ Strengths of the video
   - ✅ Weaknesses or pain points
   - ✅ Suggestions or requests from viewers
-- 📊 Outputs clean, structured insights
-- 🖥️ Visualized with **Gradio UI**
+-  Outputs clean, structured insights
+-  Visualized with **Gradio UI**
 
 ---
 
-## 📌 Use Cases
+## Use Cases
 
 - **Content Creators** – Understand viewer feedback and plan better content
 - **Marketing Teams** – Gauge brand reception and viewer language
@@ -31,7 +31,7 @@
 
 ---
 
-## 🧠 How It Works
+##  How It Works
 
 1. User enters a YouTube video URL  
 2. Tool extracts the video ID  
@@ -63,19 +63,19 @@ pip install -r requirements.txt
 python app.py
 
 ```
-💡 You’ll need a YouTube Data API key and an OpenAI API key set up in your environment or a config file.
+ You’ll need a YouTube Data API key and an OpenAI API key set up in your environment or a config file.
 
 ---
 
-🧑‍💻 Contributing
+Contributing
 Contributions are welcome! Please open issues or pull requests to improve functionality, UI, or model prompts.
 
 ---
 
-📜 License
+License
 MIT License
 
 ---
 
-📫 Contact
-Built with 💡 by johnIT56 \
+Contact
+Built with 💡 by johnIT56
